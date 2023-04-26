@@ -1,3 +1,3 @@
-### To RUN project
+### link to deploy:
 
-# yarn dev
+# https://nuxtpositron.netlify.app/
