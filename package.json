@@ -1,0 +1,26 @@
+{
+  "name": "nuxtpositron",
+  "version": "1.0.0",
+  "repository": "https://github.com/Ga11et/NuxtPositron.git",
+  "homepage": "https://ga11et.github.io/NuxtPositron/",
+  "author": "Fyodor <sivkov1998@yandex.ru>",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "core-js": "^3.25.3",
+    "nuxt-edge": "latest",
+    "swiper": "^9.2.4",
+    "vue": "^2.7.10",
+    "vue-server-renderer": "^2.7.10",
+    "vue-template-compiler": "^2.7.10"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^8.5.0",
+    "gh-pages": "^5.0.0",
+    "prettier": "^2.7.1"
+  }
+}

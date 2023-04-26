@@ -1,1 +1,3 @@
-# NuxtPositron
+### To RUN project
+
+# yarn dev
